@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+<div id="header" align='center'>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTul
+</div>
 
 **Supattraa13/Supattraa13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
